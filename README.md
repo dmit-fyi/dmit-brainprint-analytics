@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@dmit-fyi/brainprint-analytics)](https://npmjs.com/package/@dmit-fyi/brainprint-analytics)
 [![PyPI](https://img.shields.io/pypi/v/dmit-brainprint-analytics)](https://pypi.org/project/dmit-brainprint-analytics)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21721771.svg)](https://doi.org/10.5281/zenodo.21721771)
 
 DMIT BrainPrint Analytics is an intelligent assessment platform for fingerprint analysis, cognitive profiling, learning preferences, personality insights, and career guidance. Built by [DMIT.fyi](https://dmit.fyi) — guided by Mrs. Priyanka Swain, Founder of Merit Teacher.
 
@@ -134,7 +134,7 @@ DMIT · Dermatoglyphics · Multiple Intelligence Test · Fingerprint Analysis ·
 | NPM | https://npmjs.com/package/@dmit-fyi/brainprint-analytics |
 | PyPI | https://pypi.org/project/dmit-brainprint-analytics |
 | Hugging Face | https://huggingface.co/datasets/dmit-fyi/brainprint-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21721771 |
 | Docs | https://dmit-brainprint-analytics.readthedocs.io |
 | Medium | https://medium.com/@dmit-fyi |
 | Quora | https://www.quora.com/profile/Dmit-Fyi |
