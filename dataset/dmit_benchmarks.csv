@@ -1,0 +1,21 @@
+id,profile,assessment_type,brain_print_score,cognitive_profile_score,learning_style_score,personality_insight_score,career_pathway_score,leadership_workplace_score,overall_brainprint_index,priority_action,logical_math_score,linguistic_score,spatial_visual_score,interpersonal_score,age_group,notes
+1,Arjun Sharma,student-dmit,88,85,82,78,90,80,84,Personality Insight,91,85,82,80,Grade 10,Strong STEM brainprint profile
+2,Priya Nair,student-dmit,85,80,88,82,86,78,83,Leadership Workplace,86,80,88,85,Grade 11,Creative and linguistic dominant
+3,Rahul Mehta,adult-dmit,82,88,80,76,84,85,83,Personality Insight,94,88,80,78,Adult 25-35,Analytical cognitive dominance
+4,Sneha Patel,career-dmit,90,86,84,80,92,82,86,Personality Insight,92,86,84,82,Grade 12,Science stream recommended
+5,Kiran Kumar,leadership-dmit,84,82,80,85,86,92,85,Cognitive Profile,88,82,80,88,Adult 35-45,High leadership quotient
+6,Meena Iyer,early-dmit,78,75,85,80,76,72,78,Leadership Workplace,80,75,88,82,Age 6-10,Visual-spatial intelligence peak
+7,Vikram Singh,entrepreneur-dmit,86,90,82,78,88,88,85,Personality Insight,97,90,82,80,Adult 25-35,Logical entrepreneur profile
+8,Deepa Rao,student-dmit,80,78,86,84,82,76,81,Leadership Workplace,84,78,90,87,Grade 9,Interpersonal and linguistic strength
+9,Aditya Joshi,adult-dmit,88,92,84,80,90,86,87,Personality Insight,99,92,84,82,Adult 30-40,Top cognitive adult profile
+10,Riya Desai,career-dmit,82,80,88,82,84,78,82,Leadership Workplace,86,80,92,85,Grade 12,Commerce stream alignment
+11,Suresh Pillai,leadership-dmit,86,84,80,82,88,94,86,Cognitive Profile,90,84,80,85,Adult 40-50,Senior leadership brainprint
+12,Ananya Krishnan,student-dmit,84,80,90,86,82,76,83,Leadership Workplace,86,80,94,89,Grade 11,Arts and design preference
+13,Rohit Verma,adult-dmit,80,86,82,76,84,82,82,Personality Insight,92,86,82,78,Adult 28-38,Tech sector cognitive fit
+14,Kavya Menon,early-dmit,75,72,82,78,74,70,75,Leadership Workplace,77,72,86,80,Age 8-12,Musical and kinesthetic strength
+15,Sanjay Nambiar,entrepreneur-dmit,90,88,84,80,92,90,87,Personality Insight,95,88,84,82,Adult 30-40,High entrepreneurship index
+16,Pooja Sharma,student-dmit,86,82,84,88,88,80,85,Cognitive Profile,88,82,88,91,Grade 12,Interpersonal leadership strength
+17,Nikhil Raj,career-dmit,84,90,80,76,86,82,83,Personality Insight,97,90,80,78,Grade 12,Engineering stream fit
+18,Swati Pillai,adult-dmit,82,80,86,84,84,80,83,Cognitive Profile,86,80,90,87,Adult 25-35,Creative professional profile
+19,Manoj Kumar,leadership-dmit,88,86,82,80,90,92,86,Personality Insight,92,86,82,82,Adult 45-55,Executive leadership brainprint
+20,Divya Krishnan,student-dmit,85,82,88,82,86,78,84,Leadership Workplace,88,82,92,85,Grade 10,Spatial and linguistic intelligence
