@@ -1,0 +1,37 @@
+{
+  "name": "@dmit-fyi/brainprint-analytics",
+  "version": "1.0.0",
+  "description": "DMIT BrainPrint Analytics is an intelligent assessment platform for fingerprint analysis, cognitive profiling, learning preferences, personality insights, and career guidance. Built by DMIT.fyi.",
+  "main": "index.js",
+  "bin": {
+    "dmit-brainprint": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "dmit",
+    "dermatoglyphics",
+    "multiple-intelligence",
+    "fingerprint-analysis",
+    "brainprint",
+    "cognitive-profiling",
+    "learning-style",
+    "personality-insights",
+    "career-guidance",
+    "dmit-fyi",
+    "merit-teacher",
+    "assessment-platform"
+  ],
+  "author": "DMIT.fyi — Merit Teacher",
+  "license": "MIT",
+  "homepage": "https://dmit.fyi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmit-fyi/dmit-brainprint-analytics"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "DMIT BrainPrint Analytics",
+  "description": "An intelligent assessment platform for fingerprint analysis, cognitive profiling, learning preferences, personality insights, and career guidance.",
+  "url": "https://dmit.fyi",
+  "applicationCategory": "EducationApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "DMIT.fyi — Merit Teacher",
+    "url": "https://dmit.fyi",
+    "founder": {
+      "@type": "Person",
+      "name": "Mrs. Priyanka Swain",
+      "jobTitle": "Founder, Merit Teacher"
+    },
+    "sameAs": [
+      "https://dmit.fyi",
+      "https://github.com/dmit-fyi",
+      "https://npmjs.com/package/@dmit-fyi/brainprint-analytics",
+      "https://pypi.org/project/dmit-brainprint-analytics",
+      "https://huggingface.co/datasets/dmit-fyi/brainprint-benchmarks",
+      "https://dmit-fyi.github.io/dmit-brainprint-analytics/",
+      "https://medium.com/@dmit-fyi",
+      "https://www.quora.com/profile/Dmit-Fyi",
+      "https://www.slideshare.net/slideshow/dmit-fyi-understanding-dermatoglyphics-multiple-intelligence-testing-dmit/288912143",
+      "https://www.pinterest.com/DMITfyi/_profile/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/dmit-fyi/dmit-brainprint-analytics",
+  "keywords": [
+    "DMIT",
+    "Dermatoglyphics",
+    "Multiple Intelligence Test",
+    "fingerprint analysis",
+    "BrainPrint",
+    "cognitive profiling",
+    "learning style",
+    "career guidance",
+    "Merit Teacher",
+    "DMIT.fyi"
+  ]
+}

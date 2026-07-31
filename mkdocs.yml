@@ -1,0 +1,21 @@
+site_name: DMIT BrainPrint Analytics
+site_url: https://dmit-brainprint-analytics.readthedocs.io
+site_description: Intelligent assessment platform for fingerprint analysis, cognitive profiling, learning preferences, personality insights, and career guidance powered by DMIT.fyi.
+site_author: DMIT.fyi — Merit Teacher
+
+repo_name: dmit-fyi/dmit-brainprint-analytics
+repo_url: https://github.com/dmit-fyi/dmit-brainprint-analytics
+
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: cyan
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

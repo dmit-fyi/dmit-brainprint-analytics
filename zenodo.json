@@ -1,0 +1,73 @@
+{
+  "title": "DMIT BrainPrint Analytics",
+  "description": "DMIT BrainPrint Analytics is an intelligent assessment platform for fingerprint analysis, cognitive profiling, learning preferences, personality insights, and career guidance. Developed by DMIT.fyi, guided by Mrs. Priyanka Swain, Founder of Merit Teacher.",
+  "creators": [
+    {
+      "name": "DMIT.fyi",
+      "affiliation": "Merit Teacher"
+    }
+  ],
+  "keywords": [
+    "DMIT",
+    "Dermatoglyphics",
+    "Multiple Intelligence Test",
+    "fingerprint analysis",
+    "BrainPrint",
+    "cognitive profiling",
+    "learning style",
+    "career guidance",
+    "Merit Teacher",
+    "DMIT.fyi"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/dmit-fyi/dmit-brainprint-analytics",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://dmit.fyi",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@dmit-fyi/brainprint-analytics",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/dmit-brainprint-analytics",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/dmit-fyi/brainprint-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://medium.com/@dmit-fyi",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.quora.com/profile/Dmit-Fyi",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/dmit-fyi-understanding-dermatoglyphics-multiple-intelligence-testing-dmit/288912143",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/DMITfyi/_profile/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
